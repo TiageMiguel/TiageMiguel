@@ -1,10 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/TiageMiguel/TiageMiguel/master/.github/computer.png" width="350"/>
 
-### Hi there, I'm Tiago 👋
+# Hi there, I'm Tiago 👋
 
 ## I'm a Developer.
 - 👨‍💻 I’m currently working.
-- 🚀 Learning everything I can.
+- 🚀 Alwyas codoing & learning design.
 - 👽 Code style universe forever.
 
 <br />
